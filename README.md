@@ -47,6 +47,7 @@
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam&theme=graywhite&show_icons=true)
 
+
 [mail]: mailto:shivamthalwal@gmail.com
 [twitter]: https://twitter.com/heyimshivam
 [instagram]: https://www.instagram.com/hey.imshivam/
