@@ -8,8 +8,6 @@
 
 - 👯  I’m looking to collaborate on frontend
 
-- 🥅 Goal: Contribute more to Open Source projects
-
 - ⚡ Fun fact: ` There are around 700 separate programming languages `
 
 ### 📬  How to reach me:
