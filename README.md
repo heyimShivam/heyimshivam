@@ -1,6 +1,6 @@
 ### Hi there👋 <img align="right" src="https://komarev.com/ghpvc/?username=heyimshivam&color=brightgreen" />
 
-### I'm Shivam. I like to work on Web-D!!
+### I'm Shivam. I Love to work and teach Web-D!!
 
 - 🔭 I’m currently working on oppia/oppia
 
